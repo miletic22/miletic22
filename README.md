@@ -9,6 +9,6 @@ My name is Goran, a rising Sophomore at Minerva University, the most innovative 
 
 - 🔭 I’m currently working as a Backend Engineering Intern at [Dumbsplain](https://dumbsplain.com/ "Dumbsplain").
 - 🌱 Currently learning more about data science and machine learning fundamentals, using [scikit-learn](https://scikit-learn.org/stable/ "scikit-learn").
-- 📫 Reach to me through email at [goran@uni.minerva.edu](mailto:goran@uni.minerva.edu "goran@uni.minerva.edu"), [LinkedIn](https://www.linkedin.com/in/gmiletic2/ "LinkedIn") and check out my [personal website](https://mileticgoran.com/ "personal website")!
-- ⚡ Fun fact: I am majoring in CS and earning a minor in Economics.
+- 📫 Reach to me through email at [goran@uni.minerva.edu](mailto:goran@uni.minerva.edu "goran@uni.minerva.edu"), [LinkedIn](https://www.linkedin.com/in/gmiletic2/ "LinkedIn") or check out my [personal website](https://mileticgoran.com/ "personal website")!
+- ⚡ Fun fact: I am majoring in CS and earning a minor in Economics. In the past, I studied political science and journalism.
 
