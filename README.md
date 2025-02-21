@@ -7,8 +7,6 @@ My name is Goran, a rising Sophomore at Minerva University, the most innovative 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-- 🔭 I’m currently working as a Backend Engineering Intern at [Dumbsplain](https://dumbsplain.com/ "Dumbsplain").
-- 🌱 Currently learning more about data science and machine learning fundamentals, using [scikit-learn](https://scikit-learn.org/stable/ "scikit-learn").
+- 🔭 I’m currently working on a **data engineering project**, building a pipeline for scraping and processing data into **BitQuery** for frontend use.  
+- 📚 Studying **Computer Science** with a focus on **Data Science & Statistics**, alongside a minor in **Economics**.  
 - 📫 Reach to me through email at [goran@uni.minerva.edu](mailto:goran@uni.minerva.edu "goran@uni.minerva.edu"), [LinkedIn](https://www.linkedin.com/in/gmiletic2/ "LinkedIn") or check out my [personal website](https://mileticgoran.com/ "personal website")!
-- ⚡ Fun fact: I am majoring in CS and earning a minor in Economics. In the past, I studied political science and journalism.
-
