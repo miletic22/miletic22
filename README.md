@@ -1,12 +1,22 @@
-## Hi there 👋
+## Hi, I’m Goran 👋
 
-My name is Goran, a Junior at Minerva University.
+I’m a software engineer building **AI agents and production data systems at a real estate startup**.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+My work spans agent infrastructure, durable workflows, document processing, citations, human-review systems, spreadsheets, and multi-tenant applications. I enjoy turning complex AI workflows into reliable products people can actually use.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### What I work with
 
-- 🔭 I’m currently working on a **data engineering project**, exploring disease data and how it correlates with socioeconomic factors from around the globe.
-- 📚 Studying **Computer Science** with a focus on **Data Science & Statistics**, alongside a minor in **Economics**.  
-- 📫 Reach to me through email at [goran@uni.minerva.edu](mailto:goran@uni.minerva.edu "goran@uni.minerva.edu"), [LinkedIn](https://www.linkedin.com/in/gmiletic2/ "LinkedIn") or check out my [personal website](https://mileticgoran.com/ "personal website")!
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+- 🤖 Building production AI-agent infrastructure and workflow systems
+- 🧱 Interested in reliable distributed systems, agent orchestration, and data-intensive applications
+- 📊 Background in **Computer Science, Data Science, Statistics** at Minerva University
+- 🌍 Previously explored relationships between global disease outcomes and socioeconomic factors
+- 📫 Reach me via [email](mailto:goran@uni.minerva.edu), [LinkedIn](https://www.linkedin.com/in/gmiletic2/)
