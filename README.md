@@ -1,8 +1,8 @@
 ## Hi, I’m Goran 👋
 
-I’m a software engineer building **AI agents and production data systems at a real estate startup**.
+I’m an AI engineer building **AI agents and data systems** at [Mason Labs](https://usemason.ai/).
 
-My work spans agent infrastructure, durable workflows, document processing, citations, human-review systems, spreadsheets, and multi-tenant applications. I enjoy turning complex AI workflows into reliable products people can actually use.
+My work spans agent infrastructure, durable workflows, document processing, agent verifiability, alignment, human-review systems, spreadsheets, and multi-tenant applications. I enjoy turning complex AI workflows into reliable products people can actually use.
 
 ### What I work with
 
@@ -18,5 +18,4 @@ My work spans agent infrastructure, durable workflows, document processing, cita
 - 🤖 Building production AI-agent infrastructure and workflow systems
 - 🧱 Interested in reliable distributed systems, agent orchestration, and data-intensive applications
 - 📊 Background in **Computer Science, Data Science, Statistics** at Minerva University
-- 🌍 Previously explored relationships between global disease outcomes and socioeconomic factors
 - 📫 Reach me via [email](mailto:goran@uni.minerva.edu), [LinkedIn](https://www.linkedin.com/in/gmiletic2/)
